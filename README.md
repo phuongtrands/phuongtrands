@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @phuongtrands
+- This is my repo for learning and working.
